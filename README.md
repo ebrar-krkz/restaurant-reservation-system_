@@ -581,10 +581,5 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 Lisans
-
-MIT License — Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
----
 
 *Kocaeli Sağlık ve Teknoloji Üniversitesi — 2026*
